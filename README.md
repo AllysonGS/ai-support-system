@@ -57,12 +57,16 @@ Em empresas de pagamentos digitais, o volume de tickets de suporte pode ser imen
 ![Dashboard](screenshots/dashboard.png)
 *Visão geral com estatísticas, gráficos e tickets recentes*
 
+### Criação de Tickets
+![Criando Tickets](screenshots/criando-ticket.png)
+*Criando um ticket para a IA analisar*
+
 ### Análise com IA
-![AI Analysis](screenshots/ai-analysis.png)
+![AI Analysis](screenshots/analise-ia.png)
 *IA categorizando ticket e gerando resposta automática*
 
 ### Gestão de Tickets
-![Ticket Management](screenshots/ticket-list.png)
+![Ticket Management](screenshots/todos-os-tickets.png)
 *Lista completa com filtros e ações*
 
 ---
@@ -511,3 +515,4 @@ demonstrando habilidades práticas de:
 Made with ❤️ and 🤖 by Allyson Garcia Silva
 
 </div>
+
